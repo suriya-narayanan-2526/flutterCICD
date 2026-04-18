@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget{
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(title: Text("My App"),),
-        body: Center(child: Text("Hello suriya"),),
+        body: Center(child: Text("Hello vanakam"),),
       ),
     );
   }
